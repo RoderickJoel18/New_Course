@@ -1,7 +1,7 @@
 public class ClaseMath {
     public static void main(String[] args) {
 
-        //Metodo sqrt para raiz cuadrada
+        //Metodo sqrt para raiz cuadrada.
         double raiz = Math.sqrt(9);
         System.out.println(raiz);
 
