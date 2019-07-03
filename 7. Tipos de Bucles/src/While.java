@@ -1,10 +1,12 @@
 import javax.swing.*;
 import java.util.Scanner;
 
-public class Bucles {
+public class While {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        //While indeterminados
+        //Bucle While
         /*String clave ="Roderick";
         String password ="";
 
@@ -17,7 +19,11 @@ public class Bucles {
         }
         System.out.println("contraseña correcta, acceso permitido,");
 
+
          */
+        //--------------------------------------------------------------------------------
+
+
         int aleatorio = (int) (Math.random()*100);
         int numero = 0;
         int intentos = 0;
